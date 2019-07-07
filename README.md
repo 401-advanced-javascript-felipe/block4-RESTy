@@ -3,8 +3,8 @@
 ### Author: Felipe Delatorre
 
 ### Links and Resources
-* [submission PR]()
-* [codesandbox](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-felipe/block4-RESTy/pull/1)
+* [codesandbox](https://codesandbox.io/embed/frosty-stonebraker-pzi8g)
 
 #### Documentation
 `npm run styleguide`
